@@ -1,2 +1,1 @@
-isso é apenas um teste
-de calculadora
+this is a calculator test
